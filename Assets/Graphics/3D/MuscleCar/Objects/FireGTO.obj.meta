@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 8c7aabc3ec69dcf46954cdb12a0e1864
+timeCreated: 1482682122
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BlackPlastic
+    100002: Bodywork
+    100004: Chrome
+    100006: Default
+    100008: Exhausts
+    100010: //RootNode
+    100012: FRONT
+    100014: Glass
+    100016: LEFT
+    100018: Lights
+    100020: middle_column
+    100022: REAR
+    100024: RearLights
+    100026: RearView
+    100028: RIGHT
+    100030: rightdoorrearviewglass
+    100032: seats
+    100034: stering_wheel_column
+    100036: TOP
+    100038: Underside
+    100040: windshield_wipers
+    400000: BlackPlastic
+    400002: Bodywork
+    400004: Chrome
+    400006: Default
+    400008: Exhausts
+    400010: //RootNode
+    400012: FRONT
+    400014: Glass
+    400016: LEFT
+    400018: Lights
+    400020: middle_column
+    400022: REAR
+    400024: RearLights
+    400026: RearView
+    400028: RIGHT
+    400030: rightdoorrearviewglass
+    400032: seats
+    400034: stering_wheel_column
+    400036: TOP
+    400038: Underside
+    400040: windshield_wipers
+    2300000: BlackPlastic
+    2300002: Bodywork
+    2300004: Chrome
+    2300006: Default
+    2300008: Exhausts
+    2300010: FRONT
+    2300012: Glass
+    2300014: LEFT
+    2300016: Lights
+    2300018: middle_column
+    2300020: REAR
+    2300022: RearLights
+    2300024: RearView
+    2300026: RIGHT
+    2300028: rightdoorrearviewglass
+    2300030: seats
+    2300032: stering_wheel_column
+    2300034: TOP
+    2300036: Underside
+    2300038: windshield_wipers
+    3300000: BlackPlastic
+    3300002: Bodywork
+    3300004: Chrome
+    3300006: Default
+    3300008: Exhausts
+    3300010: FRONT
+    3300012: Glass
+    3300014: LEFT
+    3300016: Lights
+    3300018: middle_column
+    3300020: REAR
+    3300022: RearLights
+    3300024: RearView
+    3300026: RIGHT
+    3300028: rightdoorrearviewglass
+    3300030: seats
+    3300032: stering_wheel_column
+    3300034: TOP
+    3300036: Underside
+    3300038: windshield_wipers
+    4300000: BlackPlastic
+    4300002: Bodywork
+    4300004: Chrome
+    4300006: Default
+    4300008: Exhausts
+    4300010: FRONT
+    4300012: Glass
+    4300014: LEFT
+    4300016: Lights
+    4300018: middle_column
+    4300020: REAR
+    4300022: RearLights
+    4300024: RearView
+    4300026: RIGHT
+    4300028: rightdoorrearviewglass
+    4300030: seats
+    4300032: stering_wheel_column
+    4300034: TOP
+    4300036: Underside
+    4300038: windshield_wipers
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
